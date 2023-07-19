@@ -1,0 +1,1631 @@
+{
+    "name": "Back In Time",
+    "description": "The BACK IN TIME Collection creates a world where limitless art reaches exclusive fandom. With this NFT Drop, the collector truly goes back in time, owning a unique audiovisual art piece derived from the SoundMint algorithm. Holding one of these NFTs grants future access to Kaien Cruz and somehoodlum events, as well as exclusive access to airdrops and merchandise.",
+    "baseURI": "",
+    "count": 2500,
+    "visual_orders": {
+        "Bass + Chords": 0,
+        "Drums": 0,
+        "Percussion": 0,
+        "Vox": 0,
+        "Background Color": 1,
+        "Tape Colors": 5,
+        "Under Nails": 2,
+        "Under Nails Normal": 3,
+        "Under Hands": 4,
+        "Gears": 6,
+        "Cassette": 7,
+        "Windows": 8,
+        "Details": 9,
+        "Cassette Stickers": 10,
+        "Stickers": 11,
+        "Over Stickers": 12,
+        "Hands": 13,
+        "Nails": 14,
+        "Tattoos Large": 15,
+        "Tattoos Small": 16,
+        "Rings": 17,
+        "Alpha Animations": 18
+    },
+    "extensions": {
+        "Bass + Chords": "wav",
+        "Drums": "wav",
+        "Percussion": "wav",
+        "Vox": "wav",
+        "Background Color": "mp4",
+        "Tape Colors": "png",
+        "Under Nails": "png",
+        "Under Nails Normal": "png",
+        "Under Hands": "png",
+        "Gears": "mov",
+        "Windows": "png",
+        "Cassette Stickers": "png",
+        "Cassette": "png",
+        "Details": "png",
+        "Stickers": "png",
+        "Over Stickers": "png",
+        "Hands": "png",
+        "Nails": "png",
+        "Tattoos Large": "png",
+        "Tattoos Small": "png",
+        "Rings": "png",
+        "Alpha Animations": "mov"
+    },
+    "traits": [
+        {
+            "name": "Bass + Chords",
+            "values": [
+                {
+                    "value": "Analog Solo",
+                    "weight": "16",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Cherry Slush"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Rainbow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Analog Type",
+                    "weight": "35",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Cherry Slush"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Teal Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Funky Solo",
+                    "weight": "16",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blurple Swirls"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Yellow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Funky Rewind",
+                    "weight": "24",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blurple Swirls"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Gray Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Funky Swell",
+                    "weight": "24",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blurple Swirls"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Orange Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Space Solo",
+                    "weight": "27",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blurple Circles"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Blue Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Space",
+                    "weight": "41",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blurple Circles"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Pink Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "West Coast Solo",
+                    "weight": "27",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Pink Swirls"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Red Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "West Coast",
+                    "weight": "33",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Pink Swirls"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Blue Cassette 2"
+                        }
+                    ]
+                },
+                {
+                    "value": "Hard Hit",
+                    "weight": "27",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "GreenPurple Pulse"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Rainbow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Walkin Groove Solo",
+                    "weight": "25",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Rainbow Sherbet"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Black Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Walkin Groove Breezy",
+                    "weight": "125",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Rainbow Sherbet"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Teal Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Walkin Groove Nostalgic",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Rainbow Sherbet"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Yellow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Too Thicc Solo",
+                    "weight": "35",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Limeade"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Gray Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Too Thicc Breezy",
+                    "weight": "78",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Limeade"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Orange Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Too Thicc Nostalgic",
+                    "weight": "61",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Limeade"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Blue Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Power Solo",
+                    "weight": "21",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Twilight"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Black Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Power Saucey",
+                    "weight": "115",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Twilight"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Red Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Power Swell",
+                    "weight": "126",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Twilight"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Orange Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Retro Solo",
+                    "weight": "27",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Purple Rave"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Black Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Retro Saucey",
+                    "weight": "53",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Purple Rave"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Red Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Retro Swell",
+                    "weight": "43",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Purple Rave"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Orange Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Floating Solo",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Sahara Sun"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Yellow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Floating Summer",
+                    "weight": "125",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Sahara Sun"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Gray Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Floating Sparkle",
+                    "weight": "75",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Sahara Sun"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Orange Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Dirty 808 Solo",
+                    "weight": "18",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Sun and Sea"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Black Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Dirty 808 Summer",
+                    "weight": "65",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Sun and Sea"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Pink Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Dirty 808 Sparkle",
+                    "weight": "103",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Sun and Sea"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Red Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Drive Solo",
+                    "weight": "15",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Pink and Yellow"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Blue Cassette 2"
+                        }
+                    ]
+                },
+                {
+                    "value": "Drive Summer",
+                    "weight": "60",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Pink and Yellow"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Rainbow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Drive Sparkle",
+                    "weight": "75",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Pink and Yellow"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Teal Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Smooth Solo",
+                    "weight": "25",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blue Blender"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Black Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Smooth Coastin",
+                    "weight": "64",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blue Blender"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Yellow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Smooth Pluck",
+                    "weight": "60",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Blue Blender"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Gray Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Anthem Solo",
+                    "weight": "43",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Tropical"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Orange Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Anthem Coastin",
+                    "weight": "78",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Tropical"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Blue Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Anthem Pluck",
+                    "weight": "52",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Tropical"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Pink Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Spicy Solo",
+                    "weight": "51",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Neon Camo"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Black Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Spicy Fresh",
+                    "weight": "162",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Neon Camo"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Blue Cassette 2"
+                        }
+                    ]
+                },
+                {
+                    "value": "Spicy Chops",
+                    "weight": "87",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Neon Camo"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Rainbow Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Slip n Slide Solo",
+                    "weight": "40",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Orange Spotlight"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Black Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Slip n Slide Fresh",
+                    "weight": "80",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Orange Spotlight"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Teal Cassette"
+                        }
+                    ]
+                },
+                {
+                    "value": "Slip n Slide Chops",
+                    "weight": "93",
+                    "together": [
+                        {
+                            "name": "Background Color",
+                            "value": "Orange Spotlight"
+                        },
+                        {
+                            "name": "Cassette",
+                            "value": "Clear Yellow Cassette"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Drums",
+            "values": [
+                {
+                    "value": "Boom Bap",
+                    "weight": "600",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Diamond Ring"
+                        }
+                    ]
+                },
+                {
+                    "value": "Latin",
+                    "weight": "125",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Flower Ring"
+                        }
+                    ]
+                },
+                {
+                    "value": "80s",
+                    "weight": "500",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Ruby Ring"
+                        }
+                    ]
+                },
+                {
+                    "value": "Jerk Clap",
+                    "weight": "300",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Pink Ring"
+                        }
+                    ]
+                },
+                {
+                    "value": "Clap",
+                    "weight": "250",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Flower Ring"
+                        }
+                    ]
+                },
+                {
+                    "value": "Trap Snare",
+                    "weight": "375",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Emerald Ring"
+                        }
+                    ]
+                },
+                {
+                    "value": "Drum Hopping",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Clammed Ring"
+                        }
+                    ]
+                },
+                {
+                    "value": "Upbeat",
+                    "weight": "250",
+                    "together": [
+                        {
+                            "name": "Rings",
+                            "value": "Crowned Ring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Percussion",
+            "values": [
+                {
+                    "value": "Steady",
+                    "weight": "350",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Blue Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 6"
+                        }
+                    ]
+                },
+                {
+                    "value": "Morocco",
+                    "weight": "150",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Striped Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 8"
+                        }
+                    ]
+                },
+                {
+                    "value": "Bottle Caps",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Astrology Nails"
+                        },
+                        {
+                            "name": "Under Nails",
+                            "value": "Under Nails 5"
+                        }
+                    ]
+                },
+                {
+                    "value": "Trap",
+                    "weight": "350",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Yellow Sharp Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 9"
+                        }
+                    ]
+                },
+                {
+                    "value": "Groove",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Indigo Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 10"
+                        }
+                    ]
+                },
+                {
+                    "value": "Beam",
+                    "weight": "350",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Yellow Wave Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 5"
+                        }
+                    ]
+                },
+                {
+                    "value": "Starlight",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Pink Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 10"
+                        }
+                    ]
+                },
+                {
+                    "value": "Toms",
+                    "weight": "25",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Butterfly Nails"
+                        },
+                        {
+                            "name": "Under Nails",
+                            "value": "Under Nails 6"
+                        }
+                    ]
+                },
+                {
+                    "value": "Conga",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Flames Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 2"
+                        }
+                    ]
+                },
+                {
+                    "value": "Alarm",
+                    "weight": "350",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Blue French Tip"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 3"
+                        }
+                    ]
+                },
+                {
+                    "value": "Shakers",
+                    "weight": "150",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Flower Nails"
+                        },
+                        {
+                            "name": "Under Nails",
+                            "value": "Under Nails 10"
+                        }
+                    ]
+                },
+                {
+                    "value": "Jungle",
+                    "weight": "200",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Beach Nails"
+                        },
+                        {
+                            "name": "Under Nails",
+                            "value": "Under Nails 9"
+                        }
+                    ]
+                },
+                {
+                    "value": "Swoosh",
+                    "weight": "350",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Green Nails"
+                        },
+                        {
+                            "name": "Under Nails Normal",
+                            "value": "Under Nails Normal 4"
+                        }
+                    ]
+                },
+                {
+                    "value": "80s Trap",
+                    "weight": "25",
+                    "together": [
+                        {
+                            "name": "Nails",
+                            "value": "Rose Nails"
+                        },
+                        {
+                            "name": "Under Nails",
+                            "value": "Under Nails 7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vox",
+            "values": [
+                {
+                    "value": "Just My Type",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Retro Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Distorted Type",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Gradient Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Low Pass",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Old Skool Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Robot",
+                    "weight": "25",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Striped Sticker"
+                        },
+                        {
+                            "name": "Over Stickers",
+                            "value": "Over Stickers 3"
+                        }
+                    ]
+                },
+                {
+                    "value": "Bubble",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Orange Blue Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Buckle Distort",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Purple Sticker"
+                        },
+                        {
+                            "name": "Over Stickers",
+                            "value": "Over Stickers 1"
+                        }
+                    ]
+                },
+                {
+                    "value": "Buck Up Slow Down",
+                    "weight": "25",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Groovy Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Call You Up",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Checkered Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Give It To Me",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "3D Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Distort Love",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Pink Sky Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Anything You Want",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Carpet Sticker"
+                        },
+                        {
+                            "name": "Over Stickers",
+                            "value": "Over Stickers 4"
+                        }
+                    ]
+                },
+                {
+                    "value": "Full Send",
+                    "weight": "75",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Flower Cloud Sticker"
+                        },
+                        {
+                            "name": "Over Stickers",
+                            "value": "Over Stickers 7"
+                        }
+                    ]
+                },
+                {
+                    "value": "Replay",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Camo Sticker"
+                        },
+                        {
+                            "name": "Over Stickers",
+                            "value": "Over Stickers 6"
+                        }
+                    ]
+                },
+                {
+                    "value": "123Distort",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Flowered Sticker"
+                        },
+                        {
+                            "name": "Over Stickers",
+                            "value": "Over Stickers 2"
+                        }
+                    ]
+                },
+                {
+                    "value": "Supersized",
+                    "weight": "75",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Drawn Sticker"
+                        }
+                    ]
+                },
+                {
+                    "value": "Off Rip",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Traditional Sticker"
+                        },
+                        {
+                            "name": "Over Stickers",
+                            "value": "Over Stickers 5"
+                        }
+                    ]
+                },
+                {
+                    "value": "Get Right",
+                    "weight": "112",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Columns"
+                        }
+                    ]
+                },
+                {
+                    "value": "Get Right Distorted",
+                    "weight": "62",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Drank"
+                        }
+                    ]
+                },
+                {
+                    "value": "Get Right Shifted",
+                    "weight": "25",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Celesital Diamond"
+                        }
+                    ]
+                },
+                {
+                    "value": "Sweet Dream",
+                    "weight": "125",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Pink Palms"
+                        }
+                    ]
+                },
+                {
+                    "value": "Distorted Dream",
+                    "weight": "75",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "T-Rex"
+                        }
+                    ]
+                },
+                {
+                    "value": "Like That",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Vintage Gaming"
+                        }
+                    ]
+                },
+                {
+                    "value": "Like That Distorted",
+                    "weight": "125",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Bust"
+                        }
+                    ]
+                },
+                {
+                    "value": "Back It Up",
+                    "weight": "100",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Dolphin"
+                        }
+                    ]
+                },
+                {
+                    "value": "Back It Up Warp",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "OG Monitor"
+                        }
+                    ]
+                },
+                {
+                    "value": "Throw Sum Money",
+                    "weight": "87",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Pink Pineapple"
+                        }
+                    ]
+                },
+                {
+                    "value": "What It Is",
+                    "weight": "50",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Retro Palm"
+                        }
+                    ]
+                },
+                {
+                    "value": "Keep Tryin",
+                    "weight": "125",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Meme Candy"
+                        }
+                    ]
+                },
+                {
+                    "value": "Cool With It",
+                    "weight": "112",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Raise em up"
+                        }
+                    ]
+                },
+                {
+                    "value": "Want Some",
+                    "weight": "75",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Riot Fist"
+                        }
+                    ]
+                },
+                {
+                    "value": "Grip",
+                    "weight": "112",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Loveboro"
+                        }
+                    ]
+                },
+                {
+                    "value": "Sip of Something",
+                    "weight": "75",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Retro Yikes"
+                        }
+                    ]
+                },
+                {
+                    "value": "Calling Me",
+                    "weight": "40",
+                    "together": [
+                        {
+                            "name": "Cassette Stickers",
+                            "value": "Retro Moon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tattoos Small",
+            "values": [
+                {
+                    "value": "Ribcage",
+                    "weight": "125"
+                },
+                {
+                    "value": "Diamond",
+                    "weight": "375"
+                },
+                {
+                    "value": "Cat",
+                    "weight": "75"
+                },
+                {
+                    "value": "Robbery",
+                    "weight": "425"
+                },
+                {
+                    "value": "Future",
+                    "weight": "25"
+                },
+                {
+                    "value": "Noire",
+                    "weight": "475"
+                },
+                {
+                    "value": "Spider",
+                    "weight": "150"
+                },
+                {
+                    "value": "Butterfly",
+                    "weight": "350"
+                },
+                {
+                    "value": "Eye",
+                    "weight": "175"
+                },
+                {
+                    "value": "Vampire",
+                    "weight": "325"
+                }
+            ]
+        },
+        {
+            "name": "Tattoos Large",
+            "values": [
+                {
+                    "value": "Snake",
+                    "weight": "125"
+                },
+                {
+                    "value": "Coffin",
+                    "weight": "375"
+                },
+                {
+                    "value": "Spider",
+                    "weight": "75"
+                },
+                {
+                    "value": "Skull",
+                    "weight": "425"
+                },
+                {
+                    "value": "Rose",
+                    "weight": "25"
+                },
+                {
+                    "value": "Sun",
+                    "weight": "475"
+                },
+                {
+                    "value": "Scorpion",
+                    "weight": "150"
+                },
+                {
+                    "value": "Backstab",
+                    "weight": "350"
+                },
+                {
+                    "value": "Potion",
+                    "weight": "175"
+                },
+                {
+                    "value": "Third Eye",
+                    "weight": "325"
+                }
+            ]
+        },
+        {
+            "name": "Stickers",
+            "values": [
+                {
+                    "value": "Alien",
+                    "weight": "125"
+                },
+                {
+                    "value": "Pen Pal",
+                    "weight": "375"
+                },
+                {
+                    "value": "Cool!",
+                    "weight": "75"
+                },
+                {
+                    "value": "Damn",
+                    "weight": "425"
+                },
+                {
+                    "value": "90s",
+                    "weight": "25"
+                },
+                {
+                    "value": "Pizza",
+                    "weight": "475"
+                },
+                {
+                    "value": "Edgy",
+                    "weight": "150"
+                },
+                {
+                    "value": "Ticket",
+                    "weight": "350"
+                },
+                {
+                    "value": "Sun",
+                    "weight": "175"
+                },
+                {
+                    "value": "Rainbow Child",
+                    "weight": "325"
+                }
+            ]
+        },
+        {
+            "name": "Hands",
+            "values": [
+                {
+                    "value": "Human 1",
+                    "weight": "500",
+                    "together": [
+                        {
+                            "name": "Under Hands",
+                            "value": "Under Hands 1"
+                        }
+                    ]
+                },
+                {
+                    "value": "Human 2",
+                    "weight": "500",
+                    "together": [
+                        {
+                            "name": "Under Hands",
+                            "value": "Under Hands 2"
+                        }
+                    ]
+                },
+                {
+                    "value": "Human 3",
+                    "weight": "500",
+                    "together": [
+                        {
+                            "name": "Under Hands",
+                            "value": "Under Hands 3"
+                        }
+                    ]
+                },
+                {
+                    "value": "Human 4",
+                    "weight": "500",
+                    "together": [
+                        {
+                            "name": "Under Hands",
+                            "value": "Under Hands 4"
+                        }
+                    ]
+                },
+                {
+                    "value": "Human 5",
+                    "weight": "500",
+                    "together": [
+                        {
+                            "name": "Under Hands",
+                            "value": "Under Hands 5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Alpha Animations",
+            "values": [
+                {
+                    "value": "Flame",
+                    "weight": "50"
+                },
+                {
+                    "value": "Goo",
+                    "weight": "50"
+                },
+                {
+                    "value": "Ice",
+                    "weight": "50"
+                },
+                {
+                    "value": "Lightning",
+                    "weight": "50"
+                }
+            ]
+        },
+        {
+            "name": "Gears",
+            "values": [
+                {
+                    "value": "Purple Gear",
+                    "weight": "125"
+                },
+                {
+                    "value": "Gold Gear",
+                    "weight": "375"
+                },
+                {
+                    "value": "Red Gear",
+                    "weight": "200"
+                },
+                {
+                    "value": "Pink Gear",
+                    "weight": "425"
+                },
+                {
+                    "value": "Orange Gear",
+                    "weight": "25"
+                },
+                {
+                    "value": "Green Gear",
+                    "weight": "475"
+                },
+                {
+                    "value": "Rainbow Gear",
+                    "weight": "25"
+                },
+                {
+                    "value": "Blue Gear",
+                    "weight": "350"
+                },
+                {
+                    "value": "Yellow Gear",
+                    "weight": "175"
+                },
+                {
+                    "value": "Gray Gear",
+                    "weight": "325"
+                }
+            ]
+        },
+        {
+            "name": "Tape Colors",
+            "values": [
+                {
+                    "value": "Pink Tape Color",
+                    "weight": "125"
+                },
+                {
+                    "value": "Blue Tape Color",
+                    "weight": "375"
+                },
+                {
+                    "value": "Green Tape Color",
+                    "weight": "200"
+                },
+                {
+                    "value": "Yellow Tape Color",
+                    "weight": "425"
+                },
+                {
+                    "value": "Purple Tape Color",
+                    "weight": "25"
+                },
+                {
+                    "value": "Red Tape Color",
+                    "weight": "475"
+                },
+                {
+                    "value": "Gold Tape Color",
+                    "weight": "25"
+                },
+                {
+                    "value": "Platinum Tape Color",
+                    "weight": "350"
+                },
+                {
+                    "value": "Rainbow Tape Color",
+                    "weight": "175"
+                },
+                {
+                    "value": "Black Tape Color",
+                    "weight": "325"
+                }
+            ]
+        },
+        {
+            "name": "Windows",
+            "values": [
+                {
+                    "value": "Window Clear",
+                    "weight": "2500"
+                }
+            ]
+        },
+        {
+            "name": "Details",
+            "values": [
+                {
+                    "value": "Details",
+                    "weight": "2500"
+                }
+            ]
+        }
+    ]
+}
